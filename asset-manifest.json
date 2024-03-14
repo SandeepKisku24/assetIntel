@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assetIntel/static/css/main.29e2c6cc.css",
+    "main.js": "/assetIntel/static/js/main.20ab3289.js",
+    "index.html": "/assetIntel/index.html",
+    "main.29e2c6cc.css.map": "/assetIntel/static/css/main.29e2c6cc.css.map",
+    "main.20ab3289.js.map": "/assetIntel/static/js/main.20ab3289.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e2c6cc.css",
+    "static/js/main.20ab3289.js"
+  ]
+}
