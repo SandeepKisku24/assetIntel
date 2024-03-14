@@ -1,3 +1,14 @@
+Please Scroll down for the detailed documentation of the project. This project is a text editor using Draft.Js 
+In this react app we can save the current text in the local device, which ensures that the data is non volatile when page refreshes.
+The other features are: 
+- Typing `#` as the first string in a line & pressing space should make anything you type afterward on the same line be in a “Heading 1” format. On pressing space, the aforementioned `#` should disappear.
+    - See “This is a heading” line in the layout image above.
+- Similarly, typing `*` as the first string in a line and pressing space should correspond to “bold” format
+- `**` and space = red line
+- `***` and space = underline
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
